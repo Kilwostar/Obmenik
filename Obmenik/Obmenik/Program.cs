@@ -12,3 +12,11 @@ double MetersToKilometers(double num)
     return num;
 }
 Console.WriteLine(MetersToKilometers(1000));
+
+
+double GramsToLiters(double num)
+{
+    num = num / 1000;
+    return num;
+}
+Console.WriteLine(GramsToLiters(1));
