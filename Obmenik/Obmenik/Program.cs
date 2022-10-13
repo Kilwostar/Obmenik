@@ -19,4 +19,12 @@ double GramsToLiters(double num)
     num = num / 1000;
     return num;
 }
-Console.WriteLine(GramsToLiters(1));
+Console.WriteLine(GramsToLiters(1000));
+
+
+double LitersToGalons(double num)
+{
+    num = num * 0.219969;
+    return num;
+}
+Console.WriteLine(LitersToGalons(10));
