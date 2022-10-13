@@ -28,3 +28,11 @@ double LitersToGalons(double num)
     return num;
 }
 Console.WriteLine(LitersToGalons(10));
+
+
+double CelsiusToFahrenheit(double num)
+{
+    num = ((num * 1.8000) + 32);
+    return num;
+}
+Console.WriteLine(CelsiusToFahrenheit(10));
