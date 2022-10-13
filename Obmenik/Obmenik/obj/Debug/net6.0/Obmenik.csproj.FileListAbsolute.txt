@@ -1,0 +1,15 @@
+F:\GitHub\Obmenik\Obmenik\Obmenik\bin\Debug\net6.0\Obmenik.exe
+F:\GitHub\Obmenik\Obmenik\Obmenik\bin\Debug\net6.0\Obmenik.deps.json
+F:\GitHub\Obmenik\Obmenik\Obmenik\bin\Debug\net6.0\Obmenik.runtimeconfig.json
+F:\GitHub\Obmenik\Obmenik\Obmenik\bin\Debug\net6.0\Obmenik.dll
+F:\GitHub\Obmenik\Obmenik\Obmenik\bin\Debug\net6.0\Obmenik.pdb
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.csproj.AssemblyReference.cache
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.AssemblyInfoInputs.cache
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.AssemblyInfo.cs
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.csproj.CoreCompileInputs.cache
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.dll
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\refint\Obmenik.dll
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.pdb
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\Obmenik.genruntimeconfig.cache
+F:\GitHub\Obmenik\Obmenik\Obmenik\obj\Debug\net6.0\ref\Obmenik.dll
